@@ -1,0 +1,12 @@
+{
+	"name": "@device.farm/si-generic-timer", 
+	"version": "1.0.0", 
+	"dependencies": {
+		"si-application-events": "1.0.0"
+	},
+	"silicon": {
+		"sources": [
+			"generic-timer.cpp"
+		]
+	}
+}
