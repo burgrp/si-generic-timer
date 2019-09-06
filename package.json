@@ -2,7 +2,7 @@
 	"name": "@device.farm/si-generic-timer",
 	"version": "1.0.1",
 	"dependencies": {
-		"@device.farm/si-application-events": "1.0.0"
+		"@device.farm/si-application-events": "^1.0.1"
 	},
 	"silicon": {
 		"sources": [
