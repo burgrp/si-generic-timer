@@ -9,7 +9,7 @@ namespace genericTimer {
 
 		int counter;
 
-		virtual void onTimer();
+		virtual void onTimer() = 0;
 
 		void onEvent() {
 			if (counter) {
