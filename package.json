@@ -1,6 +1,6 @@
 {
-	"name": "@device.farm/si-generic-timer",
-	"version": "1.0.3",
+	"name": "@si14/si-generic-timer",
+	"version": "1.0.4",
 	"dependencies": {
 		"@device.farm/si-application-events": "^1.0.1"
 	},
