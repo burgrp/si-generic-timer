@@ -1,6 +1,6 @@
 {
 	"name": "@si14/si-generic-timer",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"dependencies": {
 		"@si14/si-application-events": "^1.0.2"
 	},
